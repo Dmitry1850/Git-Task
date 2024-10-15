@@ -2910,6 +2910,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e19e1db7053327e4da301f72e5feffc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Won_Panel: {fileID: 240500567}
+  Zero_Won: {fileID: 1564985312}
+  Dagger_Won: {fileID: 1120038211}
   buttons_array:
   - {fileID: 1642562092}
   - {fileID: 32448339}
